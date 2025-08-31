@@ -1,2 +1,2 @@
 # NetworkAutomationVault
-Notes from exploring &amp; experimenting with network automation using Python
+Notes from exploring &amp; experimenting with Network Automation using Python
